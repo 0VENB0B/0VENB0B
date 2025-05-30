@@ -4,7 +4,8 @@
 
 
 
-Hi, I’m BOB! (in my thai nickname is pee)
+Hi, I’m BOB!
+I will post my learning and my work here.
 
 I'm a Computer Science student at RMUTP
 
